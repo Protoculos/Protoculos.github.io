@@ -1,6 +1,6 @@
 {
-    "name": "web_app",
-    "short_name": "web_app",
+    "name": "burger_web",
+    "short_name": "burger_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
