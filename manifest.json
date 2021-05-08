@@ -1,6 +1,6 @@
 {
-    "name": "blog_web_app",
-    "short_name": "blog_web_app",
+    "name": "test_web",
+    "short_name": "test_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
